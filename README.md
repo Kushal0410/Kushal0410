@@ -1,122 +1,352 @@
-# Hi, I'm Kushal L K 👋
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-### 🚀 Web & app Developer | 💻 Problem Solver 
+<!--                    KUSHAL L K — PROFILE                        -->
 
-I'm a passionate developer who enjoys building useful, scalable, and user-friendly applications.  
-I love learning new technologies, solving challenging problems, and turning ideas into reality.
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
----
+<div align="center">
 
-## 👨‍💻 About Me
+# 👋 Hey, I'm **Kushal L K**
 
-- 🔭 Currently working on **[Your Current Project]**
-- 🌱 Currently learning **[Technology / Skill]**
-- 👯 Looking to collaborate on **Open Source & Interesting Projects**
-- 💬 Ask me about ****
-- 📫 Reach me at **[your.email@example.com]**
-- ⚡ Fun fact: **[Something interesting about you]**
+### `Data Analyst` • `AI/ML Engineer` • `Full-Stack Developer`
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🧑‍💻 `whoami`
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+```python
+class Kushal:
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+    role = [
+        "Data Analyst",
+        "AI/ML Enthusiast",
+        "Full-Stack Developer"
+    ]
 
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+    location = "Chennai, Tamil Nadu, India"
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+    interests = [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Data Analytics",
+        "Generative AI",
+        "Web Development"
+    ]
 
----
+    mindset = "Always Learning. Always Building."
+```
 
-## 🚀 Featured Projects
+I'm an aspiring **Data Analyst and AI/ML enthusiast** pursuing **Artificial Intelligence** at Panimalar Engineering College.
 
-### 🔥 Project One
-> Short description of what your project does.
-
-**Tech:** React • Node.js • MongoDB
-
-[🔗 View Project](https://github.com/yourusername/project-one)
+I enjoy working where **data, AI, and software development meet** — transforming complex information into meaningful insights and building practical applications.
 
 ---
 
-### ⚡ Project Two
-> Short description of your second project and what problem it solves.
+# ⚡ `Tech Arsenal`
 
-**Tech:** Python • FastAPI • PostgreSQL
+<div align="center">
 
-[🔗 View Project](https://github.com/yourusername/project-two)
+### 🧠 Languages
 
----
+<img src="https://skillicons.dev/icons?i=python,java,c,javascript" />
 
-### 🌟 Project Three
-> Short description of another impressive project.
+<br/><br/>
 
-**Tech:** JavaScript • API • Docker
+### 📊 Data • AI • Analytics
 
-[🔗 View Project](https://github.com/yourusername/project-three)
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
 
----
+<br/><br/>
 
-## 📊 GitHub Stats
+### 🌐 Development
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,django" />
 
----
+<br/><br/>
 
-## 🔥 Contribution Streak
+### 🛠️ Tools
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://yourwebsite.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
-  </a>
-</p>
+</div>
 
 ---
 
-## 💡 Quote
+# 🚀 `What I Do`
 
-> "First, solve the problem. Then, write the code."  
-> — John Johnson
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Data Analytics
+
+I work with data to discover patterns, generate insights, and support better decisions.
+
+**Focus**
+
+`Data Preprocessing`
+`EDA`
+`Visualization`
+`SQL`
+`Power BI`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 Artificial Intelligence
+
+Exploring intelligent systems and practical applications of AI & machine learning.
+
+**Focus**
+
+`Machine Learning`
+`Python`
+`Generative AI`
+`Prompt Engineering`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Full-Stack Development
+
+Building and optimizing real-world applications with a focus on functionality and usability.
+
+**Focus**
+
+`Python`
+`Django`
+`JavaScript`
+`Web Development`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧠 Problem Solving
+
+I enjoy taking complex problems and breaking them into simple, practical solutions.
+
+**Approach**
+
+`Analyze → Build → Test → Improve`
+
+</td>
+</tr>
+</table>
 
 ---
 
-<p align="center">
-  ⭐ If you like my projects, consider giving them a star!
-</p>
+# 💼 `Experience`
+
+<div align="center">
+
+| 🏢 Organization                     | 💻 Role                    |      📅 Period      |
+| :---------------------------------- | :------------------------- | :-----------------: |
+| **Cognifyz IT Solutions Pvt. Ltd.** | 🤖 Machine Learning Intern | Jul 2026 – Aug 2026 |
+| **DEVVERSE**                        | 👨‍🏫 Admin & Tutor        | Jun 2026 – Jul 2026 |
+| **DEVVERSE**                        | 📊 Data Science            | Dec 2025 – Jan 2026 |
+| **TANSAM Center of Excellence**     | 📈 Data Analyst            |       Apr 2025      |
+
+</div>
+
+---
+
+# 🏆 `Certifications`
+
+<div align="center">
+
+🎯 **Power BI with AI**
+
+  •  
+
+🗄️ **SQL and Relational Databases 101**
+
+  •  
+
+🐍 **HackerRank Certified — Python**
+
+<br/>
+
+🤖 **Machine Learning with Python**
+
+  •  
+
+✨ **Google Prompting Essentials Specialization**
+
+</div>
+
+---
+
+# 🎓 `Education`
+
+<div align="center">
+
+### 🏫 Panimalar Engineering College
+
+**Bachelor of Technology — Artificial Intelligence & Machine Leanring**
+
+`2024`
+
+</div>
+
+---
+
+# 📈 `GitHub Intelligence`
+
+<div align="center">
+
+<a href="https://github.com/Kushal0410">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kushal0410&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushal0410&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"/>
+
+</a>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Kushal0410&theme=tokyonight&hide_border=true&border_radius=10"/>
+
+</div>
+
+---
+
+# 🐍 `Contribution Activity`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+# 🌟 `Featured Projects`
+
+> Replace these placeholders with your strongest repositories.
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🤖 AI / ML
+
+### `Student Performance Prediction `
+
+> An AI/ML project solving a practical real-world problem.
+
+**Built with**
+
+`Python` `Machine Learning` `Data`
+
+<a href="https://github.com/Kushal0410">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 📊 Data Analytics
+
+### `Project Name`
+
+> A data analytics project focused on discovering meaningful insights.
+
+**Built with**
+
+`Python` `SQL` `Power BI`
+
+<a href="https://github.com/Kushal0410">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🌐 Front-End Web application
+### `Project Name`
+
+> A real-world web application built with a focus on usability and performance. where each and every SSLC student can access their previous year question papers at free of cost. 
+
+**Built with**
+
+`Html` `CSS` `JavaScript`
+
+<a href="https://scorehigh.netlify.app/">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</td>
+
+
+</tr>
+</table>
+
+---
+
+# 🧩 `Current Focus`
+
+```text
+┌──────────────────────────────────────────────────────────────
+│                                                              
+│   📊 Data Analytics          ████████████████████░           
+│   🤖 Artificial Intelligence  ███████████████████░░          
+│   🧠 Machine Learning        ██████████████████░░░           
+│   🐍 Python                  ████████████████████░           
+│   🌐 Web Development         █████████████████░░░░           
+│   ✨ Generative AI           ███████████████████░░           
+│                                                              
+└──────────────────────────────────────────────────────────────
+```
+
+---
+
+# 🌐 `Let's Connect`
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/kushallk04">
+<img src="https://img.shields.io/badge/LinkedIn-Kushal%20L%20K-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:kushal.lk04@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-kushal.lk04%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+📍 **Chennai, Tamil Nadu, India**
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭
+
+> **"Turning complex data into clear insights
+> and ideas into real solutions."**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer"/>
+
+</div>
