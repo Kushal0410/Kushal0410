@@ -244,13 +244,13 @@ I enjoy taking complex problems and breaking them into simple, practical solutio
 
 ### `Student Performance Prediction `
 
-> An AI/ML project solving a practical real-world problem.
+> An AI/ML project solving a practical real-world problem that can predict the student marks with their academic information and also suggest tips to improve their scores
 
 **Built with**
 
-`Python` `Machine Learning` `Data`
+`Python` `Machine Learning` `Pandas`
 
-<a href="https://github.com/Kushal0410">
+<a href="[https://github.com/Kushal0410](https://github.com/Kushal0410/Student_Mark_Prediction)">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
