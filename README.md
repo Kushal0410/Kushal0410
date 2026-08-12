@@ -250,10 +250,7 @@ I enjoy taking complex problems and breaking them into simple, practical solutio
 
 `Python` `Machine Learning` `Pandas`
 
-<a href="<a href="https://github.com/Kushal0410/Student_Mark_Prediction">
-    
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
+<a href="https://github.com/Kushal0410/Student_Mark_Prediction"><img src="https://img.shields.io/badge/VIEW%20PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=black"/></a>
 
 </td>
 
