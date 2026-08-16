@@ -201,35 +201,6 @@ I enjoy taking complex problems and breaking them into simple, practical solutio
 
 ---
 
-# 📈 `GitHub Intelligence`
-
-<div align="center">
-
-<a href="https://github.com/Kushal0410">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kushal0410&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushal0410&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"/>
-
-</a>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Kushal0410&theme=tokyonight&hide_border=true&border_radius=10"/>
-
-</div>
-
----
-
-# 🐍 `Contribution Activity`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
 
 # 🌟 `Featured Projects`
 
@@ -256,17 +227,20 @@ I enjoy taking complex problems and breaking them into simple, practical solutio
 
 <td width="50%" valign="top">
 
-## 📊 Data Analytics
+## 📊 Artificial Intelligence
 
-### `Project Name`
+### `NovaAI-Personal Assistant`
 
-> A data analytics project focused on discovering meaningful insights.
+>Nova AI is a modern Python desktop AI chatbot built with **Tkinter**, **Google Gemini**, **ChromaDB**, **Hugging Face embeddings**, and **DuckDuckGo web search**.
+
+It combines a polished desktop chat interface with real-time web retrieval, conversational AI, and persistent local semantic memory.
+
 
 **Built with**
 
-`Python` `SQL` `Power BI`
+`Python` `Google Gemini` `DuckDuckGo`
 
-<a href="https://github.com/Kushal0410">
+<a href="https://github.com/Kushal0410/NovaAI">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
