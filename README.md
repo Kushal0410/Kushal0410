@@ -204,7 +204,6 @@ I enjoy taking complex problems and breaking them into simple, practical solutio
 
 # 🌟 `Featured Projects`
 
-> Replace these placeholders with your strongest repositories.
 
 <table>
 <tr>
@@ -231,10 +230,7 @@ I enjoy taking complex problems and breaking them into simple, practical solutio
 
 ### `NovaAI-Personal Assistant`
 
->Nova AI is a modern Python desktop AI chatbot built with **Tkinter**, **Google Gemini**, **ChromaDB**, **Hugging Face embeddings**, and **DuckDuckGo web search**.
-
-It combines a polished desktop chat interface with real-time web retrieval, conversational AI, and persistent local semantic memory.
-
+>Nova AI is a modern Python desktop AI chatbot built with **ChromaDB**, **Hugging Face embeddings**, and **DuckDuckGo web search**.
 
 **Built with**
 
@@ -253,7 +249,7 @@ It combines a polished desktop chat interface with real-time web retrieval, conv
 <td width="50%" valign="top">
 
 ## 🌐 Front-End Web application
-### `Project Name`
+### `ScoreHigh`
 
 > A real-world web application built with a focus on usability and performance. where each and every SSLC student can access their previous year question papers at free of cost. 
 
